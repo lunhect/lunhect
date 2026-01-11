@@ -1,7 +1,7 @@
 #  ¡Hola! Soy Héctor
 
 🎓 Estudiante de **1º DAM** | Aprendiendo a programar en **Java** y desarrollo web  
-💻 Apasionado por la tecnología, el software y la mejora continua.
+
 
 ---
 
