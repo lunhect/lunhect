@@ -27,7 +27,7 @@
 ## 📫 Contacto
 
 - 🌐 LinkedIn: [Héctor Luna Moreno](https://www.linkedin.com/in/h%C3%A9ctor-luna-moreno-120163341/)  
-- 🐦 Twitter: [@hecctlm](https://twitter.com/hecctlm)
+
 
 ---
 
